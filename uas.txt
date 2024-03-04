@@ -1,0 +1,29 @@
+Fitur Dasar (18 buah fitur) :
+1. Image Thresholding				done
+2. Image Negative				done
+3. Image Brightness				done
+4. Image Rotation				done
+5. Image Flipping				done
+6. Image Zooming				done
+7. Image Shrinking				
+8. Mean Filtering				done
+9. Median Filtering				done
+10. Edge Detection Pilihan 1			done
+11. Edge Detection Pilihan 2			done
+12. Gauss	ian Filtering				done
+13. Erosi
+14. Dilasi
+15. Opening
+16. Closing
+17. RGB to Grayscale
+18. RGB to HSV/HLS Conversion 
+
+
+Fitur Tambahan (7 buah fitur) :
+1. Image Blending				done
+2. Image Logarithmic				done
+3. Image Translation				done
+4. Edge Detection Pilihan 3
+5. Edge Detection Pilihan 4
+6. Edge Detection Pilihan 5
+7. Top Hat 
