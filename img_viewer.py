@@ -230,7 +230,7 @@ while True:
             pass
 
     elif event == "ImgNegative": 
- 
+
         try:
 
             window["ImgProcessingType"].update("Image Negative") 
